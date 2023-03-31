@@ -1,0 +1,23 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "A Newsletter app using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaviTalib/Newsletter-Signup.git"
+  },
+  "author": "Navi Talib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaviTalib/Newsletter-Signup/issues"
+  },
+  "homepage": "https://github.com/NaviTalib/Newsletter-Signup#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
